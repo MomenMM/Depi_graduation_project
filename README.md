@@ -29,14 +29,6 @@ The testing encompasses the following core functionalities:
 * Website navigation and scroll functionality
 * API testing for product lists, brands, search, login verification, user account management, and user details.
 
-Non-functional testing like stress and performance testing is also within scope. The website will be tested for compatibility with Chrome, Firefox, and Edge.
-
-## Testing Roles
-
-* **Manual Testing:** Ahmed Mohamed, Abd Al-Rahman Nageh
-* **API Testing:** Momen Maged, Menna-Allah abdalmoaty
-* **Automation Testing:** Ahmed Salah, Doha Abdelazeim
-
 ## Identified Risks
 
 * Browser compatibility issues.
