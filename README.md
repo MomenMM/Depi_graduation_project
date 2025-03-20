@@ -1,4 +1,4 @@
-# Automation Exercise Website and API Testing Project
+# Manual, automation Exercise Website and API Testing Project
 
 ## Team
 
